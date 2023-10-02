@@ -11,6 +11,7 @@ package hofman;
 public class NovyUkol {
     public static void main(String[] args) {
         System.out.println("hahahahahah");
+        System.out.println("Svině na druhou");
     }
     
 }
